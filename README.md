@@ -5,6 +5,12 @@
 This plugin can modify styles with any selector as follows,
 and can limit them to having the specified selector or being a child element of the specified selector.
 
+## Installation
+
+```sh
+npm install -D madogiwa0124/postcss-plugin-add-encapsulation-selector
+```
+
 ## Usage
 
 Please add the following description to the PostCSS configuration file.
