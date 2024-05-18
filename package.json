@@ -8,6 +8,7 @@
   "repository": "madogiwa0124/postcss-plugin-add-encapsulation-selector",
   "main": "src/index.js",
   "scripts": {
+    "lint": "biome lint src test",
     "test": "node --test test/index.test.js"
   },
   "peerDependencies": {
