@@ -7,14 +7,13 @@ settings:
 importers:
 
   .:
-    dependencies:
-      postcss:
-        specifier: ^8.4.38
-        version: 8.4.38
     devDependencies:
       '@biomejs/biome':
         specifier: 1.7.3
         version: 1.7.3
+      postcss:
+        specifier: ^8.4.27
+        version: 8.4.38
 
 packages:
 
