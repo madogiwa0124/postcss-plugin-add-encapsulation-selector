@@ -1,0 +1,13 @@
+yarn-error.log
+npm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+.github
+.editorconfig
+.vscode
+.tool-versions
+biome.json
+coverage/
+test/

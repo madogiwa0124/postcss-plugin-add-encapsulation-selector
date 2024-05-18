@@ -1,0 +1,21 @@
+{
+  "name": "postcss-plugin-add-encapsulation-selector",
+  "version": "0.1.0",
+  "description": "PostCSS plugin to add encapsulation selector.",
+  "keywords": ["css", "postcss", "postcss-plugin"],
+  "license": "MIT",
+  "author": "madogiwa0124 <madogiwa0124@gmail.com>",
+  "repository": "madogiwa0124/postcss-plugin-add-encapsulation-selector",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/index.test.js"
+  },
+  "peerDependencies": {
+    "postcss": "^8.4.27"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.27",
+    "@biomejs/biome": "1.7.3"
+  },
+  "packageManager": "pnpm@9.1.1+sha256.9551e803dcb7a1839fdf5416153a844060c7bce013218ce823410532504ac10b"
+}
