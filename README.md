@@ -8,7 +8,7 @@ and can limit them to having the specified selector or being a child element of 
 ## Installation
 
 ```sh
-npm install -D madogiwa0124/postcss-plugin-add-encapsulation-selector
+npm install -D postcss-plugin-add-encapsulation-selector
 ```
 
 ## Usage
